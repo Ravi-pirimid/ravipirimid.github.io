@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /blog/contact/
 ---
 
 This is the base Contact page
