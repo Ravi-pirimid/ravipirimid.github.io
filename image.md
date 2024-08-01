@@ -12,7 +12,7 @@ Please choose a bag
     </h1>
 
     <div>
-      <img src="https://images.app.goo.gl/rZrJJMem6dQvDX8d7" alt="Smiley face" width="42" height="42" style="vertical-align:bottom"/>
+      <img src="https://media.istockphoto.com/id/1388186992/vector/yellow-happy-face-vector-symbol-icon.jpg?s=612x612&w=0&k=20&c=GZBWkt0ZLxLHkxU58BhRqkk41xC0LySjXa0N65xMDlw=" alt="Smiley face" width="42" height="42" style="vertical-align:bottom"/>
     </div>
     
   </body>
