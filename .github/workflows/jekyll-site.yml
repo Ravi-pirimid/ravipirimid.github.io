@@ -1,4 +1,4 @@
-name: cinew
+name: CI
 
 on:
   pull_request:
@@ -11,7 +11,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
-    
+
+    - name: Install dependencies
+      run: bundle install
+
     - name: Jekyll build
-    - run: 
-          bundle exec jekyll build
+      run: bundle exec jekyll build
